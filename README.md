@@ -238,7 +238,7 @@ File: [`elk/docker-compose.yml`](https://github.com/user-attachments/files/34593
   <img src="https://github.com/user-attachments/assets/89596abd-1a21-4fbc-9c97-84549027ccc5" alt="26-KIBANA-EncryptedTunnel" width="700">
 </p>
 
-I wrote an Ansible playbook ([`ansible/beats.yml`](https://github.com/user-attachments/files/34593409/YML.pdf)
+I wrote an Ansible playbook ([`ansible/beats.yml`](https://github.com/user-attachments/files/34593409/YML.pdf))
 
  to install Filebeat on both web servers and send their logs to Elasticsearch. The Filebeat download failed, and I never got logs flowing into Elasticsearch and Kibana. I checked the services by hand over SSH and with `curl -I`, and did the log analysis in the terminal instead (Phase 5).
 
