@@ -71,7 +71,8 @@ Click any screenshot to enlarge it.
 
 ### Step 1: Resource Group
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68bde916-1157-49ae-8b33-93a5152b97ee" alt="01-resource-group" width="650">
+  <img width="761" height="407" alt="01-resource-group" src="https://github.com/user-attachments/assets/3d5149b7-b031-4fa5-ab5e-16fc7cfa0327" />
+>
 </p>
 
 I created a resource group called SOC-Lab to keep everything in the project in one place. When the lab was finished, I could delete the whole group at once, which avoids leftover costs.
